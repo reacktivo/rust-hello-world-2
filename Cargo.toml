@@ -3,3 +3,6 @@
 name = "hello_world"
 version = "0.0.1"
 authors = [ "Jack Spirou <jack.spirou@me.com>" ]
+
+[dependencies]
+hyper="0.5.2"
